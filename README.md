@@ -70,5 +70,3 @@ local, gunakan perintah git commit -m "nama project"
 - Selesai
 
 # TERIMAKASIH
-
-- Selesai
